@@ -1,6 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills & Interests
+Programming Languages: Python, Scala, C, C++ Tools: Git, SSIS, SSRS, Tableau, Jira, PySpark Platforms: AWS, Azure Database: MySQL
+Libraries: ML: Scikit-Learn, TensorFlow, PyTorch   Data Analysis/ Viz: Pandas, Matplotlib   NLP: NLTK, Spacy
+Certifications: Machine Learning-Stanford, AWS Cloud Practitioner (CLF-C01), AWS Solutions Architect (SAA-C02)
 
 ## Education								       		
 - M.S., Computer Science	| The University of Texas at Dallas (_May 2021_)	 			        		
