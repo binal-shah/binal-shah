@@ -1,4 +1,4 @@
-<h1 align="justify">Hi 👋, My name is Binal Ashok Shah</h1>
+<h1 align="center">Hi 👋, My name is Binal Ashok Shah</h1>
 <h3 align="justify">I am currently working as a Machine Learning Engineer at NXP Semiconductor Inc. I did my Master's in Computer Science from University of Texas at Dallas. I completed my Bachelor's in Electronics and Telecommunication from Dwarkadas J. Sanghvi College of Engineering (University of Mumbai). I am a Data science/ Machine Learning enthusiast.</h3>
 
 #### Technical Skills & Interests
