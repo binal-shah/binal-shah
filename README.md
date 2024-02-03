@@ -7,7 +7,7 @@
 - Certifications: Machine Learning-Stanford, AWS Cloud Practitioner (CLF-C01), AWS Solutions Architect (SAA-C02)
 
 ## Education								       		
-- M.S., Computer Science	| The University of Texas at Dallas (_May 2021_)	 			        		
+- M.S., Computer Science	                            | The University of Texas at Dallas (_May 2021_)	 			        		
 - B.S., Electronics and Telecommunication Engineering | The University of Mumbai (_May 2018_)
 
 ## Work Experience
