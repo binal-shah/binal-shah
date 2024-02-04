@@ -12,11 +12,11 @@
 
 ## Work Experience
 **Software Engineer - Machine Learning @ NXP Semiconductor Inc. (_May 2023 - Present_)**
-- Developed custom kernels(16x8/16x16) & implemented tiling logicsto improve computational performance by 30%
-- Developed CI/CD for testing, implemented Agile SDLC using Bitbucket, Bamboo, EC2 reducing release issues by 35%
-- Created custom plugins for converting/quantizing YOLO (v2-v8) to TensorFlow-lite int8 (BYOM path) in edgeML tool
-- Converted pretrained architectures(onnx -tflite/pytorch-tflite) to reduce inference time from ~800 to ~90ms(~88%)
-- Researched on fine-tuning Large Transformer Model & engaged with cross-functional teams for streamlining SDLC
+-	Developed custom kernels(16x8/16x16) & implemented tiling logics to improve computational performance by 30%
+-	Developed CI/CD for testing, implemented Agile SDLC using Bitbucket, Bamboo, EC2 reducing release issues by 35%
+-	Created custom plugins for converting/quantizing (onnx -tflite/torchscript-tflite)  YOLO v2-v8 to low precision NN
+-	Optimized performance of DNNs (full/ low precison) on GPU, HW accelerators reducing inference from 830 to ~90ms
+-	Researched on fine-tuning Large Transformer Model & engaged with cross-functional teams for streamlining SDLC
 
 **Data Scientist @ Trinity Industries Inc. (_October 2022 - May 2023_)**
 - Built 130+ Economic/Finance Indicators model to forecast lease rates using LSTM, ARIMA, Prophet (MAPE < 5%)
@@ -25,9 +25,10 @@
 - Built data pipelines (Databricks) & data models (Python, SQL) improving dashboarding (Tableau) efficiency by 33%
 
 **Software Engineer - Machine Learning Intern @ NXP Semiconductor Inc. (_May 2022 - August 2022_)**
-- Researched on Neural Networkslike CNN, RNN(LSTM), RBMs, Autoencoders & worked in CV for Edge Processing
-- Executed & compared models (YOLO v4, v5, v6 and MobileNet SSD v1, v2) on KPIs (FPS, AP, MACs) using EVKs
-- Developed real-time object detection pipeline by converting YOLOv4 to TFlite. Performed post-process quantization to int8, float16 for detecting & classifying objects. This helped in improving user performance by ~45%
+-	Trained, fine-tuned and customized CNN, RNN(LSTM), RBMs, Autoencoders for deployment in low precision (int8)
+-	Validated, compared performance of DNNs (YOLO v4-v6, MobileNet SSD) on next-gen SoCs using KPIs (FPS, AP)
+-	Designed object detection pipeline for conversion & compression of yolov4 to tflite improving user performance by ~45%
+-	Collaborated with research teams for developing custom layers for non-supported operators for conversion of YOLOv4 
 
 **Senior Data Scientist @ Cleartax (_June 2018 - March 2020_)**
 - Developed NLP- based invoice number normalization logic & designed data automation pipelines using SQL (SAP Hana), Python to increase tax reporting accuracy for fortune 500 companies, reducing manual efforts of teams by ~65%
